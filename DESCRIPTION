@@ -7,4 +7,4 @@ Author: Wush Wu <wush978@gmail.com>
 Maintainer: Wush Wu <wush978@gmail.com>
 Description: OpenCPU application to detect tied bidders
 License: GPL(>= 3)
-Imports: igraph
+Imports: igraph, dplyr, data.table
